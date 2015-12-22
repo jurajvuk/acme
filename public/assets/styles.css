@@ -1,0 +1,30 @@
+.carousel {
+	width: 90%;
+	margin: auto;
+	position: relative;
+}
+
+/*
+.carousel-inner {
+	width: 80%;
+	margin: auto;
+}*/
+
+.empty-well {
+	background: transparent;
+}
+
+.bigger {
+	font-size: 4.5em;
+}
+
+.footer-background{
+	background: black;
+	color: white;
+}
+.contact {
+	padding-left: 8px;
+}
+.error {
+	color: red;
+}
